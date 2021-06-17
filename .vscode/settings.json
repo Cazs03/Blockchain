@@ -1,0 +1,10 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/_OLD": true,
+    "**/.prettierrc": true,
+    ".vscode": true
+  }
+}
